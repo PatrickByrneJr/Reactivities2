@@ -1,0 +1,6 @@
+{
+    "vsintellicode.features.apiExamples": "enabled",
+    "vsintellicode.features.apiExamplests": "enabled",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "vsintellicode.modelDownloadPath": ""
+}
